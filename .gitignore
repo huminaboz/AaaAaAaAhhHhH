@@ -1,6 +1,7 @@
 $PROJDIR/Temp/
  $PROJDIR/Library/
  $PROJDIR/Obj/
+ $PROJDIR/Obj/Assets/NGUI
  
  *.csproj
  *.unityproj
